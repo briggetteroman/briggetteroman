@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @briggetteroman. Computer Science student.
+- 👀 I’m interested on topics: Network Programming, Computer System Security, Network security and Machine Learning.
+- 🌱 I’m currently learning Linux and Network programming.
+- 📫 How to reach me borhuaytalla@inf.ufrgs.br
