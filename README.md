@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @briggetteroman. MSc. in Computer Science. 
-- 👀 I’m interested on topics: Offensive Security, Application Security, .
+- 👀 I’m interested on topics: Information Security, Offensive Security, Application Security.
 - 🌱 I’m currently learning Penetration testing, Reverse Engineering and Mobile Security.
 
 # Tech skills
